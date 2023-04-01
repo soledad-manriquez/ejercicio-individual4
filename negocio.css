@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(34, 33, 34);
+    padding: 10px;
+   
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+   
+}
+p{
+text-align: justify;
+
+}
+nav{
+border: 10px;
+border-block-style: solid;
+border-block-color: rgb(192, 255, 218);
+
+
+}
+img{
+  width: 100%;
+  height: auto;
+  border: solid rgb(194, 255, 80);
+}
